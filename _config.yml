@@ -1,11 +1,11 @@
 # Site settings
-author: ALEKSANDAR VUKASINOVIC
-title: 
+author: Aleksandar Vuk
+title: Adventures in Programming
 header-img: img/home-bg.png
 email: alekvuka@gmail.com
-copyright_name: ALEKSANDAR VUKASINOVIC
+copyright_name: Aleksandar Vuk
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Learning Ruby and Beyond!  
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  alekvuka
